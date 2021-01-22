@@ -8,4 +8,7 @@ public class Car {
     public void setLight(boolean light){
         this.light=light;
     }
+    public void sseeetttLight(boolean light){
+        this.light=light;
+    }
 }
