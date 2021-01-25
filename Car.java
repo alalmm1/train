@@ -7,5 +7,6 @@ public class Car {
     }
     public void setLight(boolean light){
         this.light=light;
+        //fdfdfd
     }
 }
